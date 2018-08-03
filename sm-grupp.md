@@ -19,3 +19,31 @@ Kommunikation sker per mail till sm(at)ultimatesweden.se.
 En förening som vill arrangera ett SM ombes att fylla i och maila följande [word-mall](http://ultimatesweden.se/Mall_SUF_SM.docx).
 Säsongsplanering finns på [ultimatesweden.se/kalender](http://ultimatesweden.se/kalender).
 
+Påbörjad checklista för arrangörsförening:
+* Framtagande av tekniska förutsättningar (vad behövs)
+* Boka planer, omklädningsrum
+* Ev avtal, tex SM-veckan
+* Erbjuda logi?
+* Erbjuda frukost/lunch/middag?
+* Budget
+* Göra fb-event
+* Ta fram inbjudan inkl vägbeskrivning
+* Sprida inbjudan
+* Media innan, under och efter?
+* Livestream ja/nej, kommentatorer
+* Fotograf?
+* Info och planering för publik
+* Lokal koppling, rekrytering, skolprojekt/samarbete
+* Sponsorer/samarbetspartners
+* Ta in anmälningar
+* Ta in avgifter
+* Ranking och spelschema
+* Matchdiscar
+* Medaljer/plaketter/pokal/övriga priser
+* Funktionärer
+* Göra iordning planer (linjer, koner, skadeförebygga)
+* Enhetlig SM-inramning, dressa ytor
+* Annan inramning?
+* Ytterligare punkter..
+
+
