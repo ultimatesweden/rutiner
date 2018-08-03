@@ -1,6 +1,6 @@
 **UTKAST**
 
-SUF SM-grupp beslutar om Svenska Mästerskap och arrangörsföreningar.
+SUF SM-grupp beslutar om Svenska Mästerskap och arrangörsföreningar. SM-gruppens medlemmar utses av SUF styrelse och SM-gruppen följer samma övergripande riktlinjer som SUF:s övriga arbetsgrupper.
 
 Arbetsordning:
 1. SM-gruppen fattar intentionsbeslut om vilka SM som ska arrangeras med minimum 6 månaders framförhållning, helst ännu tidigare.
