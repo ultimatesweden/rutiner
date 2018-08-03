@@ -4,13 +4,13 @@ SUF SM-grupp beslutar om Svenska Mästerskap och arrangörsföreningar. SM-grupp
 
 Arbetsordning:
 1. SM-gruppen fattar intentionsbeslut om vilka SM som ska arrangeras med minimum 6 månaders framförhållning, helst ännu tidigare.
-Vid förslag till förändringar från tidigare år konsulteras föreningarna genom Klubbrådet.
+Vid förslag till förändringar från tidigare år konsulteras föreningarna genom Klubbrådet. Informell input kan även hämtas från Ultimate Sweden Community.
 
 2. SM-gruppen skickar förfrågan till SUF kalendergrupp om att ta fram möjliga datum för respektive SM. Detta sker utifrån svensk kalender (skollov och liknande), befintliga event i nationell och internationell tävlingskalender, övriga relevanta händelser och ev input från Klubbrådet gällande datumstrategier.
 
 3. SM-gruppen går ut med förfrågan till föreningarna så fort intentionsbeslut fattats och datumförslag/beslut finns.
 Vid behov går påminnelseförfrågan ut 6, 5, 4 och 3 månader innan.
-Vid beslut om arrangör behöver hänsyn tas till att vissa kommuner inte tillåter hall/planreservation med lång framförhållning.
+Vid beslut om arrangör behöver hänsyn tas till att vissa kommuner inte tillåter hall/planreservation med många månaders framförhållning.
 SM-gruppen ansvarar för att ställa in ett SM senast 2 månader innan om arrangör saknas.
 
 SM-gruppen tillhandahållar bl.a. lathund/checklista till arrangörsförening, tar in utvärdering efter arrangemanget, samt arbetar med att löpande utveckla SM-konceptet.
@@ -27,23 +27,25 @@ Påbörjad checklista för arrangörsförening:
 * Erbjuda frukost/lunch/middag?
 * Budget
 * Göra fb-event
-* Ta fram inbjudan inkl vägbeskrivning
-* Sprida inbjudan
 * Media innan, under och efter?
 * Livestream ja/nej, kommentatorer
 * Fotograf?
 * Info och planering för publik
 * Lokal koppling, rekrytering, skolprojekt/samarbete
 * Sponsorer/samarbetspartners
-* Ta in anmälningar
-* Ta in avgifter
-* Ranking och spelschema
 * Matchdiscar
 * Medaljer/plaketter/pokal/övriga priser
 * Funktionärer
 * Göra iordning planer (linjer, koner, skadeförebygga)
 * Enhetlig SM-inramning, dressa ytor
 * Annan inramning?
+* Ta fram inbjudan inkl vägbeskrivning
+* Sprida inbjudan
+* Ta in anmälningar
+* Ta in avgifter
+* Ranking och spelschema
+* System för fairplay-bedömning
+* Rapportera tävlingsresultat och fairplay till SM-gruppen
 * Ytterligare punkter..
 
 
