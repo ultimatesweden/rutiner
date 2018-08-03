@@ -8,4 +8,4 @@ som finns [här](http://styrelse.frisbeesport.se/sff-rutiner).
 # Innehåll
 
 * [Säsongskalender](./sasongskalender.md)
-
+* [SM-grupp](./sm-grupp.md)
