@@ -9,3 +9,4 @@ som finns [här](http://styrelse.frisbeesport.se/sff-rutiner).
 
 * [Säsongskalender](./sasongskalender.md)
 * [SM-grupp](./sm-grupp.md)
+* [Ekonomi](./Ekonomi.md)
