@@ -14,7 +14,7 @@ Så här ser det när jag bokför, SpeedLedger föreslår konto och om det stäm
 
 
 
-Om jag vill dela upp en inbetalning på olika konton ser det ut så här, bild 2
+Om jag vill dela upp en inbetalning på olika konton ser det ut så här
 
 
 ![ange_flera_konton](./media/Ekonomi/ange_flera_konton.png "ange_flera_konton")
