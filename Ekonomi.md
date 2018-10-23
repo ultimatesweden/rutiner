@@ -10,8 +10,11 @@ Kopplingen fungerar perfekt och det enda som egentligen behöver matas in är:
 
 Så här ser det när jag bokför, SpeedLedger föreslår konto och om det stämmer klickar man på OK
 
+![ange_konto](./media/Ekonimi/ange_konto.png "ange_konto")
+
 
 
 Om jag vill dela upp en inbetalning på olika konton ser det ut så här, bild 2
 
 
+![ange_flera_konton](./media/Ekonomi/ange_flera_konton.png "ange_flera_konton")
