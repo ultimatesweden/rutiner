@@ -10,7 +10,7 @@ Kopplingen fungerar perfekt och det enda som egentligen behöver matas in är:
 
 Så här ser det när jag bokför, SpeedLedger föreslår konto och om det stämmer klickar man på OK
 
-![ange_konto](./media/Ekonimi/ange_konto.png "ange_konto")
+![ange_konto](./media/Ekonomi/ange_konto.png "ange_konto")
 
 
 
