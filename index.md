@@ -7,6 +7,6 @@ som finns [här](http://styrelse.frisbeesport.se/sff-rutiner).
 
 # Innehåll
 
+* [Ekonomi](./Ekonomi.md)
 * [Säsongskalender](./sasongskalender.md)
 * [SM-grupp](./sm-grupp.md)
-* [Ekonomi](./Ekonomi.md)
