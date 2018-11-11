@@ -63,6 +63,8 @@ SUF:s landslag är organiserad i följande landslagsgrupper:
 
 ## SM
 
+***EDITHA KOLLA IGENOM OCH KORRIGERA***
+
 Följande SM-aktiviteter kommer att genomföras under 2019:
 
 * Ungdoms-SM i ??
@@ -92,7 +94,7 @@ Utbildnignsansvarig inom SUF finns att tillgå för att få input kring upplägg
 *Budget: XX timmar per månad / YY timmar för året*
 
 
-# Kontaktytor kansliet
+# Kontaktytor mot kansliet
 
 Följande personer har rätt att utnyttja kansliets tjänster och kan kontakta kansliet för att få arbetsuppgifter utförda:
 
@@ -109,7 +111,6 @@ Rapportering görs månadsvid till SUF:s styrelse. Månadsrapporten ska vara rel
 Rapporten ska mailas till styrelsen@ultimatesweden.se första arbetsdagen i följande månad. Mallen nedan ska användas för rapporten.
 
 ## Mall månadsrapport
-
 
 ### Aktiviteter genomförda under månaden som gått
 
