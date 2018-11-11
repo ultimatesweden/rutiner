@@ -26,14 +26,14 @@ Kansliet ska arbeta med följande aktiviteter under 2019:
 
 SUF har få verifikat på ett år så tidsåtgången för bokföring och bankärenden är begränsad.
 
-*** Budget: 4 timmar per månad / 48 timmar för året ***
+*Budget: 4 timmar per månad / 48 timmar för året*
 
 
 ## Licensadministration
 
 Klubbarna skickar in licenslister 2 gånger per år som underlag för administrationen av licenserna som görs i IdrottOnline. Detta görs i månad XX och YY.
 
-*** Budget: 10 timmar i månad XX och 10 timmar i månad YY / 20 timmar för året ***
+*Budget: 10 timmar i månad XX och 10 timmar i månad YY / 20 timmar för året*
 
 
 ## Administration av IdrottOnline
@@ -43,14 +43,22 @@ Uppdatering av kontaktuppgifter för klubbarna samt granskning av stadgar för n
 * Utskicka till klubbarna med begäran av uppdatering av kontakadministration. Det är kansliets ansvar att säkerställa att svar kommer in från alla klubbar. Efter ett första utskick ska påminnelser skickas en gång per vecka till klubbar som inte svarat. Klubbar som inte svarat listas i månadsrapporten, sen nedan.
 * Lägga in kontaktuppgifterna i IdrottOnline
 
-*** Budget: 10 timmar under april månad / 20 timmar för året ***
+*Budget: 10 timmar under april månad / 20 timmar för året*
 
 
 ## Administration av landslag
 
+***MARTIN KOLLA IGENOM OCH KORRIGERA***
+
 Kansliet ska finnas som en resurs för landslagen. Exempel på arbetsuppgifter är att boka planer och logi för läger och hålla kontakten med arrangören. Landslagen ansvarar själva för att boka resor och boenden för tävlingarna och att hålla kontakten med sina deltagare.
 
-*** Budget: XX timmar under året ***
+SUF:s landslag är organiserad i följande landslagsgrupper:
+
+* Seniorlandslag för gräs - herr, dam, mixed, U24-mixed
+* Beachlandslag - herr, dam, master herr, master dam, grandmaster herr, great grandmaster herr
+* Ungdomslandslag - U17 herr, U20 herr, U20 dam
+
+*Budget: XX timmar under året*
 
 
 ## SM
@@ -68,7 +76,7 @@ Följande SM har SUF behov av hjälp från kansliet med:
 * Genomförande
 
 
-*** Budget: XX timmar under året ***
+*Budget: XX timmar under året*
 
 
 ## Skolaktiviteter
@@ -81,7 +89,7 @@ Restarande tid av SUF:s budget ska läggas på att sprida Ultimatesporten. Under
 
 Utbildnignsansvarig inom SUF finns att tillgå för att få input kring upplägg på övningar som passar för skolaktiviteter (kontakta styrelsen för att etablera kontakt).
 
-*** Budget: XX timmar per månad / YY timmar för året ***
+*Budget: XX timmar per månad / YY timmar för året*
 
 
 # Kontaktytor kansliet
@@ -89,17 +97,9 @@ Utbildnignsansvarig inom SUF finns att tillgå för att få input kring upplägg
 Följande personer har rätt att utnyttja kansliets tjänster och kan kontakta kansliet för att få arbetsuppgifter utförda:
 
 * SUF:s styrelsemedlemmar
-* Ansvarig för landslagsgrupp (3 st, se nedan)
+* Ansvarig för landslagsgrupp (3 st, se oven)
 * Klubbar i licensärenden
 * Ansvarig för SM-gruppen
-
-SUF har ett antal olika landslag som är organiserad i följande landslagsgrupper:
-
-*** MARTIN KOLLA IGENOM OCH KORRIGERA ***
-
-* Seniorlandslag för gräs - herr, dam, mixed, U24-mixed
-* Beachlandslag - herr, dam, master herr, master dam, grandmaster herr, great grandmaster herr
-* Ungdomslandslag - U17 herr, U20 herr, U20 dam
 
 
 # Rapportering
