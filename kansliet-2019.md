@@ -67,7 +67,7 @@ SUF:s landslag är organiserad i följande landslagsgrupper:
 
 Följande SM-aktiviteter kommer att genomföras under 2019:
 
-* Ungdoms-SM i ??
+* Ungdoms-SM i Eksjö
 * Senior-SM i ??
 * SM-veckan i ??
 
