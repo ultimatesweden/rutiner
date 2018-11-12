@@ -73,9 +73,9 @@ Följande SM-aktiviteter kommer att genomföras under 2019:
 
 Följande SM har SUF behov av hjälp från kansliet med:
 
-* Planering
-* Markndsföring
-* Genomförande
+* Planering (bara för SM veckan)
+* Licens- och medlemskapskontroll
+* Genomförande (bara för SM veckan)
 
 
 *Budget: XX timmar under året*
