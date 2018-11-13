@@ -1,0 +1,14 @@
+# IT
+
+SUF använder följande IT-tjänster/system:
+
+* Github - hemsida, projektdokumentation etc.
+* GSuite - gmail-konton, mail-grupper, Google Drive
+* SpeedLedger - bokföring
+* Wordpress/WooCommerce - hemsida och webshop (under uppbyggnad)
+* WebEx (använder SFF:s konto)
+* Amazon Web Services (använder SFF:s konto)
+
+Alla i styrelsen har ett gmail-konto under ultimatesweden.se. Dessa konton används för att skapa konton hos de tjänster som 
+styrelsemedlemmar och andra som arbetar åt SUF behöver. Detta gör det enkelt att administrera användare när styrelsemedlemmar
+tillkommer och slutar.
