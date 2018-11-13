@@ -7,7 +7,7 @@ som finns [här](http://styrelse.frisbeesport.se/sff-rutiner).
 
 # Innehåll
 
-* [Ekonomi](./Ekonomi.md)
-* [Kanslirutin för 2019](./Kansliet-2019.md)
+* [Ekonomi](./ekonomi.md)
+* [Kanslirutin för 2019](./kansliet-2019.md)
 * [Säsongskalender](./sasongskalender.md)
 * [SM-grupp](./sm-grupp.md)
