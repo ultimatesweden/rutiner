@@ -48,20 +48,20 @@ Uppdatering av kontaktuppgifter för klubbarna samt granskning av stadgar för n
 
 ## Administration av landslag
 
-***MARTIN KOLLA IGENOM OCH KORRIGERA. Martin: Japp ser bra ut!*** 
+***MARTIN KOLLA IGENOM OCH KORRIGERA. Martin: Japp fixat!*** 
 
 Kansliet ska finnas som en resurs för landslagen. Exempel på arbetsuppgifter är att boka planer och logi för läger och hålla kontakten med arrangören. Landslagen ansvarar själva för att boka resor och boenden för tävlingarna och att hålla kontakten med sina deltagare.
 
 SUF Landslagsgrupp har ett övergripande ansvar för alla landslag, kontakt landslag(at)ultimatesweden.se
 Urban Ericsson har som Ungdomslandslagschef övergripande ansvar för u-landslagen, kontakt urbanericsson.1969(at)gmail.com 
 
-SUF har följande landslag:
+SUF har följande landslag 2019:
 
 * Seniorlandslag gräs - Men, Women, Mixed, U24-Mixed
 * Beachlandslag - Men, Women, Mixed, Master Men, Master Women, Grand Master Men, Great Grand Master Men
 * Ungdomslandslag (gräs) - U17 Men, U20 Men, U20 Women
 
-*Budget: XX timmar under året*
+*Budget: 20 timmar under året*
 
 
 ## SM
