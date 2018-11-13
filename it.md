@@ -15,4 +15,4 @@ styrelsemedlemmar och andra som arbetar åt SUF behöver. ultimatesweden.se mail
 
 ## Google Drive
 
-När en ny styrelse tillträder efter årsmötet skapas en Team Drive i Google Drive som alla i styrelsen får tillgång till. Med en drive per styrelse är det enkelt att styra vem som ska ha tillgång till vad.
+När en ny styrelse tillträder efter årsmötet skapas en Team Drive i Google Drive som alla i styrelsen får tillgång till. Med en team drive per styrelse är det enkelt att styra vem som ska ha tillgång till vad.
