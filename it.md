@@ -10,5 +10,4 @@ SUF använder följande IT-tjänster/system:
 * Amazon Web Services (använder SFF:s konto)
 
 Alla i styrelsen har ett gmail-konto under ultimatesweden.se. Dessa konton används för att skapa konton hos de tjänster som 
-styrelsemedlemmar och andra som arbetar åt SUF behöver. Detta gör det enkelt att administrera användare när styrelsemedlemmar
-tillkommer och slutar.
+styrelsemedlemmar och andra som arbetar åt SUF behöver. ultimatesweden.se mailen kan t.ex. användas för officiella mail. Det gör det också enkelt att administrera användare när styrelsemedlemmar tillkommer och slutar.
