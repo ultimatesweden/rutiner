@@ -1,2 +1,1 @@
-# rutiner
-Rutiner för Svenska Ultimate Förbundet
+# Rutiner för Svenska Ultimate Förbundet, se [ultimatesweden.se/rutiner](ultimatesweden.se/rutiner).
