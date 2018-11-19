@@ -25,7 +25,7 @@ Vilka aktiviteter kommer att genomföras vilka konkreta resultat kommer ur dess 
 
 ## Tidplan
 
-När startar och slutat projektet.
+När startar och slutat projektet samt när planeras flörstudie vara klar och genomförande vara klart (se projektfaser nedan).
 
 ## Budget
 
@@ -40,18 +40,20 @@ Vilka risker finns för att budgeten inte håller, tidplanen inte håller eller 
 Vilka kommer att arbeta i projektet. Ange både ideela resurser och de som arbetar mot ersättning.
 
 
-# Förstudie/planering
+# Projektfaser
+
+## Förstudie/planering
 
 När större projekt ska genomföras kan det behövas en planeringfas. Denna fas kan behövas för att ta fram detaljerade planer
 och en budget för genomförandefasen.
 
 
-# Genomförande
+## Genomförande
 
 Här genomförs projektets aktiviteter.
 
 
-# Avslutning
+## Avslutning
 
 Projektet avslutas och det säkerställs att alla som skulle utförs är levererat och en överlämning görs i de fall som detta behövs.
 
