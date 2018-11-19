@@ -2,16 +2,12 @@
 
 # Idrottslyft
 
-SUF:s utvecklingsplan styr hur Idrottslyftsmedlem får utnyuttjas. Denna budget består av två delar, en del som föreningar söker 
-medel ur och en del som SUF finansierar projekt genom vilket kallas utvecklingsstöd. 
-
-Denna sida innehåller rutiner för hur dessa projekt hanteras inom SUF.
-
-Projekten delas in i tre faser. Syftet med detta är att projekt startas, genomförs och avlsutas på ett kontrollerat sätt.
-För att starta ett projekt krävs en ansökan som innehåller de ruriker som listas i mallen nedan. Det är möjligt att 
-först söka om att för genomför en förstudie för att sedan ansöka om att få genomföra projektet.
+SUF:s utvecklingsplan styr hur Idrottslyftsmedlem får utnyuttjas. Denna budget består av två delar, en del som föreningar söker medel ur och en del som SUF finansierar projekt genom vilket kallas utvecklingsstöd. Denna sida innehåller rutiner för hur dessa projekt hanteras inom SUF.
 
 # Mall för ansökan om att start ett projekt
+
+För att starta ett projekt krävs en ansökan som innehåller de ruriker som listas i mallen nedan. Det är möjligt att 
+först söka om att för genomför en förstudie för att sedan ansöka om att få genomföra projektet.
 
 Ansökan ska innehålla följande rubriker:
 
@@ -41,6 +37,9 @@ Vilka kommer att arbeta i projektet. Ange både ideela resurser och de som arbet
 
 
 # Projektfaser
+
+Projekten delas in i tre faser. Syftet med detta är att projekt startas, genomförs och avlsutas på ett kontrollerat sätt.
+
 
 ## Förstudie/planering
 
