@@ -9,32 +9,16 @@ SUF:s utvecklingsplan styr hur Idrottslyftsmedlem får utnyuttjas. Denna budget 
 För att starta ett projekt krävs en ansökan som innehåller de ruriker som listas i mallen nedan. Det är möjligt att 
 först söka om att för genomför en förstudie för att sedan ansöka om att få genomföra projektet.
 
-Ansökan ska innehålla följande rubriker:
+Ansökan ska innehålla följande information:
 
-## Bakgrund
+* Bakgrund - Beskriv kortfattat bakgrunden till projektet.
+* Aktiviteter och leverabler - Vilka aktiviteter kommer att genomföras vilka konkreta resultat kommer ur dess aktiviteter.
+* Tidplan - När startar och slutat projektet samt när planeras flörstudie vara klar och genomförande vara klart (se projektfaser nedan).
+* Budget - Kostnad uppdelas på huvudaktiviteter.
+* Risker - Vilka risker finns för att budgeten inte håller, tidplanen inte håller eller att kvalitén inte blir bra.
+* Resurser - Vilka kommer att arbeta i projektet. Ange både ideela resurser och de som arbetar mot ersättning.
 
-Beskriv kortfattat bakgrunden till projektet.
-
-## Aktiviteter och leverabler
-
-Vilka aktiviteter kommer att genomföras vilka konkreta resultat kommer ur dess aktiviteter.
-
-## Tidplan
-
-När startar och slutat projektet samt när planeras flörstudie vara klar och genomförande vara klart (se projektfaser nedan).
-
-## Budget
-
-Kostnad uppdelas på huvudaktiviteter.
-
-## Risker
-
-Vilka risker finns för att budgeten inte håller, tidplanen inte håller eller att kvalitén inte blir bra.
-
-## Resurser
-
-Vilka kommer att arbeta i projektet. Ange både ideela resurser och de som arbetar mot ersättning.
-
+En wordmall för projektansökningar finns på [ultimatesweden.se](https://www.dropbox.com/sh/7l8odm7ukru93ab/AADJfWbqwm5a3PsEjBmXzJHfa/Stöddokument%20föreningar?dl=0&preview=Ansökan+om+Projekt.docx&subfolder_nav_tracking=1)
 
 # Projektfaser
 
