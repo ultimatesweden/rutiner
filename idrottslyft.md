@@ -45,7 +45,7 @@ Projektet avslutas och det säkerställs att alla som skulle utförs är leverer
 # Ekonomi och uppföljning
 
 Fakturor för kostander i projekt som finansieras av utvecklingsstödet hanteras av kansliet. Fakturor skickas via mail till 
-faktura@ulktimatesweden.se eller om det inte är möjligt med post till fakturaadressen.
+faktura@ultimatesweden.se eller om det inte är möjligt med post till fakturaadressen.
 
 
 Fakturaadress:
