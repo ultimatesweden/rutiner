@@ -93,7 +93,7 @@ Vad har gjorts sedan föregående statusrapport.
 Vad planeras under kommande period.
 
 
-### Riskser och problem
+### Risker och problem
 
 Ange risker och problem som uppstått med förslag på åtgärder för att hantera problem och minimera eller undvika risker.
 
