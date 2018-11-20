@@ -1,8 +1,6 @@
 # Löpande bokföring
 
-Hej,
-
-Kopplingen fungerar perfekt och det enda som egentligen behöver matas in är:
+Det finns en automatiskt koppling mellan Swedbank och SpeedLedger. Det enda som behöver matas in manualle är:
 
 * uppdatering kontoplan och behöver bara göras vid enstaka tillfällen
 
@@ -18,3 +16,19 @@ Om jag vill dela upp en inbetalning på olika konton ser det ut så här
 
 
 ![ange_flera_konton](./media/Ekonomi/ange_flera_konton.png "ange_flera_konton")
+
+
+# Leverantörsfakturor 
+
+SUF:s leverantörsfakturor hanteras av kansliet. Fakturor skickas via mail till 
+faktura@ultimatesweden.se eller om det inte är möjligt med post till fakturaadressen.
+
+Fakturaadress:
+
+```
+Svenska Ultimateförbundet
+Gullbergs Strandgata 36D
+411 04 Göteborg
+```
+
+
