@@ -12,3 +12,4 @@ som finns [här](http://styrelse.frisbeesport.se/sff-rutiner).
 * [Kanslirutin för 2019](./kansliet-2019.md)
 * [Säsongskalender](./sasongskalender.md)
 * [SM-grupp](./sm-grupp.md)
+* [Idrottslyft/Utvecklingsplan](./idrottslyft.md)
