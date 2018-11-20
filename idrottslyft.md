@@ -6,10 +6,10 @@ SUF:s utvecklingsplan styr hur Idrottslyftsmedlem får utnyuttjas. Denna budget 
 
 # Mall för ansökan om att start ett projekt
 
-För att starta ett projekt krävs en ansökan som innehåller de ruriker som listas i mallen nedan. Det är möjligt att 
+För att starta ett projekt krävs en ansökan som innehåller de ruriker som listas nedan. Det är möjligt att 
 först söka om att för genomför en förstudie för att sedan ansöka om att få genomföra projektet.
 
-Ansökan ska innehålla följande information:
+Ansökan, som mailas till utvecklingsplan@ultimatesweden.se, ska innehålla följande information:
 
 * Bakgrund - Beskriv kortfattat bakgrunden till projektet.
 * Aktiviteter och leverabler - Vilka aktiviteter kommer att genomföras vilka konkreta resultat kommer ur dess aktiviteter.
@@ -57,7 +57,7 @@ Gullbergs Strandgata 36D
 
 ## Mall för statusrapport
 
-Projekt ska rapportera status via mail till SUF fyra gånger om året. Rapporter ska vara inskickade via till idrottslyft@ultimatesweden.se 
+Projekt ska rapportera status via mail till SUF fyra gånger om året. Rapporter ska vara inskickade via till utvecklingsplan@ultimatesweden.se 
 senaste följande datum
 
 * 1/3
