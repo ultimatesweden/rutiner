@@ -76,6 +76,13 @@ Statusrapporten ska innehålla de rubriker som anges nedan.
 * Grön flagg - projektet levererar enligt polan och ser inte risker för framtida leveranser.
 
 
+### Ekonomi
+
+* Budget för projektet
+* Fakturerat
+* Upparbetat men ej fakturerat - **viktigt att detta är med**
+
+
 ### Aktiviteter genomförda sedan föregående statusrapport
 
 Vad har gjorts sedan föregående statusrapport.
