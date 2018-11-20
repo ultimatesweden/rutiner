@@ -1,6 +1,6 @@
 ***UTKAST***
 
-# Idrottslyft
+# Idrottslyft/Utvecklingsplan
 
 SUF:s utvecklingsplan styr hur Idrottslyftsmedlem får utnyuttjas. Denna budget består av två delar, en del som föreningar söker medel ur och en del som SUF finansierar projekt genom vilket kallas utvecklingsstöd. Denna sida innehåller rutiner för hur dessa projekt hanteras inom SUF.
 
@@ -45,7 +45,7 @@ Projektet avslutas och det säkerställs att alla som skulle utförs är leverer
 # Ekonomi och uppföljning
 
 Fakturor för kostander i projekt som finansieras av utvecklingsstödet hanteras av kansliet. Fakturor skickas via mail till 
-faktura@ultimatesweden.se eller om det inte är möjligt med post till fakturaadressen.
+faktura@ultimatesweden.se eller om det inte är möjligt med post till fakturaadressen. **Alla fakturor ska innehålla en projektkod. Denna projektkod får projektet när dess ansökan blir godkänd.**
 
 
 Fakturaadress:
