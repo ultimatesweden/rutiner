@@ -11,6 +11,7 @@ först söka om att för genomför en förstudie för att sedan ansöka om att f
 
 Ansökan, som mailas till utvecklingsplan@ultimatesweden.se, ska innehålla följande information:
 
+* Kontaktuppgifter till projektledare
 * Bakgrund - Beskriv kortfattat bakgrunden till projektet.
 * Aktiviteter och leverabler - Vilka aktiviteter kommer att genomföras vilka konkreta resultat kommer ur dess aktiviteter.
 * Tidplan - När startar och slutat projektet samt när planeras flörstudie vara klar och genomförande vara klart (se projektfaser nedan).
