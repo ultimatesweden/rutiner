@@ -28,7 +28,7 @@ Projekten delas in i tre faser. Syftet med detta är att projekt startas, genomf
 
 ## Förstudie/planering
 
-När större projekt ska genomföras kan det behövas en planeringfas. Denna fas kan behövas för att ta fram detaljerade planer
+När större projekt ska genomföras kan det behövas en planeringfas. Denna fas användsför att ta fram detaljerade planer
 och en budget för genomförandefasen.
 
 
