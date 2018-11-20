@@ -18,7 +18,7 @@ Ansökan, som mailas till utvecklingsplan@ultimatesweden.se, ska innehålla föl
 * Risker - Vilka risker finns för att budgeten inte håller, tidplanen inte håller eller att kvalitén inte blir bra.
 * Resurser - Vilka kommer att arbeta i projektet. Ange både ideela resurser och de som arbetar mot ersättning.
 
-En wordmall som kan användas för projektansökningar finns på [ultimatesweden.se](https://www.dropbox.com/sh/7l8odm7ukru93ab/AADJfWbqwm5a3PsEjBmXzJHfa/Stöddokument%20föreningar?dl=0&preview=Ansökan+om+Projekt.docx&subfolder_nav_tracking=1). Om ni vill använda ett annat förmat är det ok så länge informationen finns med.
+En wordmall som kan användas för projektansökningar finns på [ultimatesweden.se](https://www.dropbox.com/sh/7l8odm7ukru93ab/AADJfWbqwm5a3PsEjBmXzJHfa/Stöddokument%20föreningar?dl=0&preview=Ansökan+om+Projekt.docx&subfolder_nav_tracking=1). Om ni vill använda ett annat format är det ok så länge informationen finns med.
 
 # Projektfaser
 
