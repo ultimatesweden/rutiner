@@ -14,7 +14,7 @@ Ansökan, som mailas till utvecklingsplan@ultimatesweden.se, ska innehålla föl
 * Kontaktuppgifter till projektledare
 * Bakgrund - Beskriv kortfattat bakgrunden till projektet.
 * Aktiviteter och leverabler - Vilka aktiviteter kommer att genomföras vilka konkreta resultat kommer ur dess aktiviteter.
-* Tidplan - När startar och slutat projektet samt när planeras flörstudie vara klar och genomförande vara klart (se projektfaser nedan).
+* Tidplan - När startar och slutat projektet samt när planeras förstudie vara klar och genomförande vara klart (se projektfaser nedan).
 * Budget - Kostnad uppdelas på huvudaktiviteter.
 * Risker - Vilka risker finns för att budgeten inte håller, tidplanen inte håller eller att kvalitén inte blir bra.
 * Resurser - Vilka kommer att arbeta i projektet. Ange både ideela resurser och de som arbetar mot ersättning.
