@@ -21,7 +21,7 @@ Om jag vill dela upp en inbetalning på olika konton ser det ut så här
 # Leverantörsfakturor 
 
 SUF:s leverantörsfakturor hanteras av kansliet. Fakturor skickas via mail till 
-faktura@ultimatesweden.se eller om det inte är möjligt med post till fakturaadressen.
+faktura@ultimatesweden.se eller om det inte är möjligt med post till fakturaadressen. Leverantörsfakturor som kommer med post scannas in av kansliet och mailas till faktura@ultimatesweden.se. På detta sätt får styrelsen veta att fakturan kommit och den sparas även automatiskt på Google Drive.
 
 Fakturaadress:
 
