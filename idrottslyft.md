@@ -4,10 +4,13 @@
 
 SUF:s utvecklingsplan styr hur Idrottslyftsmedlem får utnyuttjas. Denna budget består av två delar, en del som föreningar söker medel ur och en del som SUF finansierar projekt genom vilket kallas utvecklingsstöd. Denna sida innehåller rutiner för hur dessa projekt hanteras inom SUF.
 
-# Mall för ansökan om att start ett projekt
+# Mall för ansökan om att start ett projekt som är finansierat av utvecklingsstöd
 
 För att starta ett projekt krävs en ansökan som innehåller de ruriker som listas nedan. Det är möjligt att 
 först söka om att för genomför en förstudie för att sedan ansöka om att få genomföra projektet.
+
+Läs igenom
+[SUF:s utvecklingsplan](https://www.dropbox.com/sh/7l8odm7ukru93ab/AAC0tGfSirLPmLNdukJqPvTva/Utvecklingsplanen?dl=0&subfolder_nav_tracking=1) och säkerställ att projektet passar in i denna.
 
 Ansökan, som mailas till utvecklingsplan@ultimatesweden.se, ska innehålla följande information:
 
