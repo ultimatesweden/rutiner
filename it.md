@@ -16,3 +16,8 @@ styrelsemedlemmar och andra som arbetar åt SUF behöver. ultimatesweden.se mail
 ## Google Drive
 
 När en ny styrelse tillträder efter årsmötet skapas en Team Drive i Google Drive som alla i styrelsen får tillgång till. Med en team drive per styrelse är det enkelt att styra vem som ska ha tillgång till vad.
+
+
+## DocuSign
+
+SFF har ett DocuSign konto som grenförbunden kan använda. Maila dokument som ni vill få signerade till kansliet@frisbeesport.se and ange vilket som ska signera samt vilka email-adresser de har.
