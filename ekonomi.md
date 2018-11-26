@@ -37,9 +37,7 @@ Gullbergs Strandgata 36D
 
 ## Nya leverantörer
 
-Alla leverantörer som SUF använder sig av måste vara registrerade som arbetsgivare. Detta kontrolleras enkelt på skatteverkets hemsida:
-
-https://www.skatteverket.se/privat/sjalvservice/allaetjanster/tjanster/hamtaforetagsinformation.4.3810a01c150939e893f3e69.html
+Alla leverantörer som SUF använder sig av måste vara registrerade som arbetsgivare. Detta kontrolleras enkelt på [skatteverkets hemsida](https://www.skatteverket.se/privat/sjalvservice/allaetjanster/tjanster/hamtaforetagsinformation.4.3810a01c150939e893f3e69.html)
 
 
 
