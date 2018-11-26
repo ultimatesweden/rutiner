@@ -39,7 +39,7 @@ Gullbergs Strandgata 36D
 
 Alla leverantörer som SUF använder sig av måste vara registrerade som arbetsgivare. Detta kontrolleras enkelt på [skatteverkets hemsida](https://www.skatteverket.se/privat/sjalvservice/allaetjanster/tjanster/hamtaforetagsinformation.4.3810a01c150939e893f3e69.html)
 
-Info om F-skatt och sociala avgifter för enskild firma finns [här](https://www.skatteverket.se/foretagochorganisationer/sjalvservice/svarpavanligafragor/nystartadeforetag/foretagfskattfaq/jagharstartatettforetaghurbetalasminasocialavgifteromjagharfskatt.5.10010ec103545f243e8000709.html). Det 
+Info om F-skatt och sociala avgifter för enskild firma finns [här](https://www.skatteverket.se/foretagochorganisationer/sjalvservice/svarpavanligafragor/nystartadeforetag/foretagfskattfaq/jagharstartatettforetaghurbetalasminasocialavgifteromjagharfskatt.5.10010ec103545f243e8000709.html). 
 
 
 
