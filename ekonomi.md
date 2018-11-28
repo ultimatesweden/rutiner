@@ -16,7 +16,7 @@ Om jag vill dela upp en inbetalning på olika konton ser det ut så här
 
 
 ![ange_flera_konton](./media/Ekonomi/ange_flera_konton.png "ange_flera_konton")
-
+faktura@ultimatesweden.se
 
 # Leverantörsfakturor 
 
@@ -25,7 +25,7 @@ faktura@ultimatesweden.se eller om det inte är möjligt med post till fakturaad
 
 Fakturor som ska belasta projekt ska ha en projektkod som referens som projekten tilldelas när de godkänns. 
 
-Kansliet mailar faktura@ultimatesweden.se för attest av fakturor. Mailet ska innehålla belopp och konto som kostnaden ska tas på (alt. en fråga om  kansliet inte vet vilket konto en faktura ska belasta).
+Kansliet mailar  för attest av fakturor. Mailet ska innehålla belopp och konto som kostnaden ska tas på (alt. en fråga om  kansliet inte vet vilket konto en faktura ska belasta).
 
 Fakturaadress:
 
@@ -38,6 +38,8 @@ Gullbergs Strandgata 36D
 ## Betalning av leverantörsfakturor
 
 Betalningar får endast göras till godkända levertantörer. Registerutdrag för godkända leverantörer finns på Google Drive [Ekonomi](https://drive.google.com/drive/folders/1rzow1bCGvufOQIUeFHirGzi2CB_YC1XM).
+
+Om det kommer in fakturor som inte är godkända ska mail skickas till faktura@ultimatesweden.se för att få leverantören godkänd.
 
 
 ## Nya leverantörer
