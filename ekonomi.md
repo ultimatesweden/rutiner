@@ -1,6 +1,6 @@
 # Löpande bokföring
 
-Det finns en automatiskt koppling mellan Swedbank och SpeedLedger. Det enda som behöver matas in manualle är:
+Det finns en automatiskt koppling mellan Swedbank och SpeedLedger. Det enda som behöver matas in manuellt är:
 
 * uppdatering kontoplan och behöver bara göras vid enstaka tillfällen
 
@@ -34,6 +34,11 @@ Svenska Ultimateförbundet
 Gullbergs Strandgata 36D
 411 04 Göteborg
 ```
+
+## Betalning av leverantörsfakturor
+
+Betalningar får endast göras till godkända levertantörer. Registerutdrag för godkända leverantörer finns på Google Drive [Ekonomi](https://drive.google.com/drive/folders/1rzow1bCGvufOQIUeFHirGzi2CB_YC1XM).
+
 
 ## Nya leverantörer
 
