@@ -37,7 +37,7 @@ Gullbergs Strandgata 36D
 
 ## Betalning av leverantörsfakturor
 
-Betalningar får endast göras till godkända levertantörer. Registerutdrag för godkända leverantörer finns på Google Drive [Ekonomi](https://drive.google.com/drive/folders/1rzow1bCGvufOQIUeFHirGzi2CB_YC1XM).
+Betalningar får endast göras till godkända levertantörer. Registerutdrag för godkända leverantörer finns på Google Drive [Ekonomi](https://drive.google.com/drive/folders/1rzow1bCGvufOQIUeFHirGzi2CB_YC1XM). Om det saknas registerutdrag ska detta göras innan betalning görs.
 
 Om det kommer in fakturor som inte är godkända ska mail skickas till faktura@ultimatesweden.se för att få leverantören godkänd.
 
