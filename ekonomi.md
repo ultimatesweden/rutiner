@@ -41,6 +41,8 @@ Betalningar får endast göras till godkända levertantörer. Registerutdrag fö
 
 Om det kommer in fakturor som inte är godkända ska mail skickas till faktura@ultimatesweden.se för att få leverantören godkänd.
 
+Fakturor som belastar utvecklingsplanen ska vara försedda med en referens till en projektkod. Giltiga projektkoder finns på [Google Drive](https://drive.google.com/drive/folders/0AP8_MerwYwMTUk9PVA)
+
 
 ## Nya leverantörer
 
