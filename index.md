@@ -8,6 +8,7 @@ som finns [här](http://styrelse.frisbeesport.se/sff-rutiner).
 # Innehåll
 
 * [Bokföring och fakturor](./bokforing_och_fakturor.md)
+* [Gruppresor](./gruppresor.md) 
 * [IT](./it.md)
 * [Kanslirutin för 2019](./kansliet-2019.md)
 * [Löner](./loner.md)
