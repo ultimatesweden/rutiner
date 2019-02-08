@@ -1,5 +1,3 @@
-**UTKAST**
-
 # Styrelse & valberedning
 
 ## Styrelse
