@@ -10,7 +10,7 @@ Följande gäller för ungdomslandslag samt senior och U24 landslag. Ekonomin f�
 
 # Kundfakturor
 
-Kansliet ansvarar för fakturering inom SUF. Detta inkluderar licenser, föreningsavgifter och andra faktureringsuppdrag som styrelsen ger kansliet. Påminnelsefakturor ska skickas då betalningar inte görs i tid. Dröjesmålsränta på 8% (per år) ska tas ut samt ett påminnelseavgift på 100 Kr.
+Kansliet ansvarar för fakturering inom SUF. Detta inkluderar licenser, föreningsavgifter och andra faktureringsuppdrag som styrelsen ger kansliet. Påminnelsefakturor ska skickas då betalningar inte görs i tid. Dröjesmålsränta på 8% (per år) ska tas ut samt ett påminnelseavgift på 60 Kr.
 
 
 # Löpande bokföring
