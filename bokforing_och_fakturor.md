@@ -4,7 +4,7 @@ Följande gäller för ungdomslandslag samt senior och U24 landslag. Ekonomin f�
 
 * ansvarig för UL respektive seniorlandslag godkänner fakturor (kansliet mailar ul/landslag@ultimatesweden.se för godkännande)
 * kostnaden bokas på ett konto för UL resp. seniorlandslag (se kontoplan 2019 i Google Drive) och betalas från kassan
-* ansvarig för UL respektive seniorlandslag säkerställer att betalningar kommer in
+* ansvarig för UL respektive seniorlandslag säkerställer att fakturor ställs ut
 * inbetalningar bokas som intäkt på ett konto för UL resp. seniorlandslag (se kontoplan 2019 i Google Drive). Intäkts- och kostnadskonto för UL resp. seniorlandslag ska balansera när inbetalningarna kommit in
 * kansliet används för administration och se till att inbetalningar görs. Se rutin för kundfakturor inkl. påminnelser nedan.
 
