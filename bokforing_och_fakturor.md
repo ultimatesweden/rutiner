@@ -6,7 +6,11 @@ Följande gäller för ungdomslandslag samt senior och U24 landslag. Ekonomin f�
 * kostnaden bokas på ett konto för UL resp. seniorlandslag (se kontoplan 2019 i Google Drive) och betalas från kassan
 * ansvarig för UL respektive seniorlandslag säkerställer att betalningar kommer in
 * inbetalningar bokas som intäkt på ett konto för UL resp. seniorlandslag (se kontoplan 2019 i Google Drive). Intäkts- och kostnadskonto för UL resp. seniorlandslag ska balansera när inbetalningarna kommit in
-* kansliet används för administration
+* kansliet används för administration och se till att inbetalningar görs. Se rutin för kundfakturor inkl. påminnelser nedan.
+
+# Kundfakturor
+
+Kansliet ansvarar för fakturering inom SUF. Detta inkluderar licenser, föreningsavgifter och andra faktureringsuppdrag som styrelsen ger kansliet. Påminnelsefakturor ska skickas då betalningar inte görs i tid. Dröjesmålsränta på 8% (per år) ska tas ut samt ett påminnelseavgift på 100 Kr.
 
 
 # Löpande bokföring
