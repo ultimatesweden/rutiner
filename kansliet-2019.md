@@ -48,8 +48,6 @@ Uppdatering av kontaktuppgifter för klubbarna samt granskning av stadgar för n
 
 ## Administration av landslag
 
-***MARTIN KOLLA IGENOM OCH KORRIGERA. Martin: Japp fixat!*** 
-
 Kansliet ska finnas som en resurs för landslagen. Exempel på arbetsuppgifter är att boka planer och logi för läger och hålla kontakten med arrangören. Landslagen ansvarar själva för att boka resor och boenden för tävlingarna och att hålla kontakten med sina deltagare.
 
 SUF Landslagsgrupp har ett övergripande ansvar för alla landslag, kontakt landslag(at)ultimatesweden.se
@@ -102,9 +100,19 @@ Utbildnignsansvarig inom SUF finns att tillgå för att få input kring upplägg
 Följande personer har rätt att utnyttja kansliets tjänster och kan kontakta kansliet för att få arbetsuppgifter utförda:
 
 * SUF:s styrelsemedlemmar
-* Ansvariga för landslag (se oven)
+* Ansvariga för landslag (se ovan)
 * Klubbar i licensärenden
 * Ansvarig för SM-gruppen
+
+# Semester
+
+Kanslipersonal ska stämma av planerad semester i god tid, helst ska en plan för kommande år läggas i början av året.
+
+För 2019/2020 har kansliet begärt semester följande dagar:
+
+* 6-17 september 2019 - Ej bra för SUF eftersom SUF arrangerar både mixed SM och ungdoms-SM de två veckorna i september. 
+Det är 14:e-15:e september samt 20:e-21:a
+* 23 januari - 9 februari 2020
 
 
 # Rapportering
