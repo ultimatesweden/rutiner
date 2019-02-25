@@ -65,19 +65,20 @@ SUF har följande landslag 2019:
 
 ## SM
 
-***EDITHA KOLLA IGENOM OCH KORRIGERA***
-
 Följande SM-aktiviteter kommer att genomföras under 2019:
 
-* Ungdoms-SM i Eksjö
-* Senior-SM i ??
-* SM-veckan i ??
+* Ungdoms-SM inomhus i Eksjö - 30-31 Mars
+* SM-veckan Beach Mixed 29-30 Juni
+* Senior-SM 14-15 Sept, ort är inte besämt
+* Ungdoms-SM utomhus 21-22 Sept, ort är inte bestämt
 
-Följande SM har SUF behov av hjälp från kansliet med:
+För SM har SUF behov av hjälp från kansliet med:
 
-* Planering (bara för SM veckan)
-* Licens- och medlemskapskontroll
-* Genomförande (bara för SM veckan)
+* Licens- och medlemskapskontroll och administration och logistik - t.ex. hantering av medaljer, discar, årets utmärkelser, etc, utförs primärt 1 vecka innan SM
+* Planering inför SM veckan
+* Genomförande av SM veckan
+
+SM-gruppen kommer att ta fram en mer utförlig lathund kring vad som förväntas utföras av kansliet och utföraren.
 
 
 *Budget: XX timmar under året*
