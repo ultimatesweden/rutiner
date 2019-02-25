@@ -3,6 +3,7 @@
 | Datum          | Av              | Ändring                                    |
 |----------------|-----------------|--------------------------------------------|
 | 2018-11-11     | Jonas Colmsjö   | Första utkast                              |
+| 2019-02-25     | Jonas Colmsjö   | Version 1.0                                |
 
 
 # Arbetsinstruktion kansliet 2019
@@ -117,7 +118,7 @@ Det är 14:e-15:e september samt 20:e-21:a
 
 # Rapportering
 
-Rapportering görs månadsvid till SUF:s styrelse. Månadsrapporten ska vara relativt utförlig för att SUF:s styrelse ska ha en möjlighet att hålla sig uppdaterad i kanslarbetet. Om kansliet ser att denna arbetsinstuktion b
+Rapportering görs månadsvid till SUF:s styrelse. Månadsrapporten ska vara relativt utförlig för att SUF:s styrelse ska ha en möjlighet att hålla sig uppdaterad i kanslarbetet. Om kansliet ser att denna arbetsinstuktion behöver uppdateras kommuniceras detta via månadsrapporten.
 
 Rapporten ska mailas till styrelsen@ultimatesweden.se första arbetsdagen i följande månad. Mallen nedan ska användas för rapporten.
 
