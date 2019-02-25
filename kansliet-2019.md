@@ -39,9 +39,9 @@ Klubbarna skickar in licenslister 2 gånger per år som underlag för administra
 
 ## Administration av IdrottOnline
 
-Uppdatering av kontaktuppgifter för klubbarna samt granskning av stadgar för nya klubbar samt registrering av dessa i IdrottOnline. Det är viktigt att SUF alltid har uppdaterade kontakter för klubbarna. De flesta klubbar har haft sitt årsmöte i april så detta är ett bra tillfället att arbeta med detta. Kansliet ska göra följande:
+Uppdatering av kontaktuppgifter för klubbarna samt granskning av stadgar för nya klubbar samt registrering av dessa i IdrottOnline. Det är viktigt att SUF alltid har uppdaterade kontakter för klubbarna. De flesta klubbar har haft sitt årsmöte i april så detta är ett bra tillfälle att arbeta med detta. Kansliet ska göra följande:
 
-* Utskicka till klubbarna med begäran av uppdatering av kontakadministration. Det är kansliets ansvar att säkerställa att svar kommer in från alla klubbar. Efter ett första utskick ska påminnelser skickas en gång per vecka till klubbar som inte svarat. Klubbar som inte svarat listas i månadsrapporten, sen nedan.
+* Utskicka till klubbarna med begäran av uppdatering av kontaktadministration. Det är kansliets ansvar att säkerställa att svar kommer in från alla klubbar. Efter ett första utskick ska påminnelser skickas en gång per vecka till klubbar som inte svarat. Klubbar som inte svarat listas i månadsrapporten, sen nedan.
 * Lägga in kontaktuppgifterna i IdrottOnline
 
 *Budget: 10 timmar under april månad / 20 timmar för året*
