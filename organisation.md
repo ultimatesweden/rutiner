@@ -22,7 +22,7 @@
 * Kommunikation - kommunikation@ultimatesweden.se
 * Landslag - landslag@ultimateswden.se
 * Regelgrupp - regler@ultimatesweden.se
-* SM-Grupp - saknar mail-lista
+* SM-Grupp - sm@ultimatesweden.se
 * Streaming - streaming@ultimateswden.se
 * Utbildningsgrupp - utbildnings@ultimatesweden.se
 * Utvecklingsplan - utvecklingsplan@ultimatesweden.se
