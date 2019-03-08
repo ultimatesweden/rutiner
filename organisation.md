@@ -24,7 +24,7 @@
 * Regelgrupp - regler@ultimatesweden.se
 * SM-Grupp - sm@ultimatesweden.se
 * Streaming - streaming@ultimateswden.se
-* Utbildningsgrupp - utbildnings@ultimatesweden.se
+* Utbildningsgrupp - utbildning@ultimatesweden.se
 * Utvecklingsplan - utvecklingsplan@ultimatesweden.se
 
 
