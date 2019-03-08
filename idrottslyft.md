@@ -7,7 +7,11 @@ SUF:s utvecklingsplan styr hur Idrottslyftsmedlem får utnyuttjas. Denna budget 
 Föreningar kan göra ansökningar om Idrottslyft i IdrottOnline. Kansliet tar emoit dessa och mailar till il-forening@ultimatesweden.se. Gruppen som hanterar ansökningar om Idrottslyft svarar kasliet om ansökan är godkänd, avslagen eller om kompletteringar behövs.
 
 
-# Mall för ansökan om att start ett projekt som är finansierat av utvecklingsstöd
+# Idrottslyft Förbund/Utvecklingsplan
+
+SUF driver ett antal projekt inom ramen för Idrottslyft Förbund/Utvecklingsplan. Här beskriv hur dessa projekt hanteras.
+
+## Mall för ansökan om att start ett projekt som är finansierat av utvecklingsstöd
 
 För att starta ett projekt krävs en ansökan som innehåller de ruriker som listas nedan. Det är möjligt att 
 först söka om att för genomför en förstudie för att sedan ansöka om att få genomföra projektet.
