@@ -17,6 +17,7 @@
 # Arbetsgrupper
 
 * Hemsida - hemsida@ultimatesweden.se
+* Idrottslyft Förening - il-forening@ultimatesweden.se
 * Kalendergrupp - kalender@ultimatesweden.se
 * Kommunikation - kommunikation@ultimatesweden.se
 * Landslag - landslag@ultimateswden.se
