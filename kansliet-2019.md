@@ -21,6 +21,7 @@ Kansliet ska arbeta med följande aktiviteter under 2019:
 * Administration av landslag
 * SM
 * Skolaktiviteter
+* Säsongskalender
 
 
 ## Bankärenden och bokföring
@@ -93,6 +94,12 @@ Restarande tid av SUF:s budget ska läggas på att sprida Ultimatesporten. Under
 * Genomföra skolaktiviteter - genomföra instruktioner på plats ute i skolorna
 
 Utbildnignsansvarig inom SUF finns att tillgå för att få input kring upplägg på övningar som passar för skolaktiviteter (kontakta styrelsen för att etablera kontakt).
+
+*Budget: XX timmar per månad / YY timmar för året*
+
+## Säsongskalender
+
+Kansliet underhåller säsongskalendern. 
 
 *Budget: XX timmar per månad / YY timmar för året*
 
