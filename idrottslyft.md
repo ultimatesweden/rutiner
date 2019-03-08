@@ -4,7 +4,7 @@ SUF:s utvecklingsplan styr hur Idrottslyftsmedlem får utnyuttjas. Denna budget 
 
 # Idrottslyft Förening
 
-Föreningar kan göra ansökningar om Idrottslyft i IdrottOnline. Kansliet tar emoit dessa och mailar till il-forening@ultimatesweden.se. Gruppen som hanterar ansökningar om Idrottslyft svarar kasliet om ansökan är godkänd, avslagen eller om kompletteringar behövs.
+Föreningar kan göra ansökningar om Idrottslyft i IdrottOnline. Kansliet tar emot dessa och mailar till il-forening@ultimatesweden.se. Gruppen som hanterar ansökningar om Idrottslyft svarar kasliet om ansökan är godkänd, avslagen eller om kompletteringar behövs.
 
 
 # Idrottslyft Förbund/Utvecklingsplan
