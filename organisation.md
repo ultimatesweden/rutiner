@@ -44,3 +44,8 @@ nya projekt startas och befintliga avslutas.
 
 Uppdateringar kan begäras genom att maila styrelsen@ultimatesweden.se
 
+
+# Ansvar och befogenheter för arbetsgrupperna
+
+Arbetsgrupperna har mandat att nyttja den budget den blivit tilldelad. Användningen av budgegten ska följa de riktlinjer som SUF och RF satt upp för respektive område. SUF styrelse ska tillfrågar vid eventuella frågor. Arbetsgerupperna ska lämna verksamhetsberättelse för det gågna året och göra en verksamhetsplan för det kommande åtet inför SUFs årsmöte. Arbetsgrupperna ansvarar för att hantera de ärenden som ligger inom dess område, t.ex. RF/SISU, EUF och WFDF ärenden.
+
