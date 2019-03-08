@@ -1,5 +1,3 @@
-***UTKAST***
-
 # Idrottslyft/Utvecklingsplan
 
 SUF:s utvecklingsplan styr hur Idrottslyftsmedlem får utnyuttjas. Denna budget består av två delar, en del som föreningar söker medel ur och en del som SUF finansierar projekt genom vilket kallas utvecklingsstöd. Denna sida innehåller rutiner för hur dessa projekt hanteras inom SUF.
