@@ -4,6 +4,7 @@
 |----------------|-----------------|--------------------------------------------|
 | 2018-11-11     | Jonas Colmsjö   | Första utkast                              |
 | 2019-02-25     | Jonas Colmsjö   | Version 1.0                                |
+| 2019-03-08     | Jonas Colmsjö   | Lagt in säsongskalendern som en arbetsuppgift |
 
 
 # Arbetsinstruktion kansliet 2019
