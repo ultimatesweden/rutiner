@@ -1,1 +1,1 @@
-# Rutiner för Svenska Ultimate Förbundet, se [ultimatesweden.se/rutiner](http://ultimatesweden.se/rutiner).
+# Rutiner för Svenska Ultimate Förbundet, se [rutiner.ultimatesweden.se/rutiner](http://rutiner.ultimatesweden.se/).
