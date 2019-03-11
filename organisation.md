@@ -20,7 +20,7 @@
 * Idrottslyft Förening - il-forening@ultimatesweden.se
 * Kalendergrupp - kalender@ultimatesweden.se
 * Kommunikation - kommunikation@ultimatesweden.se
-* Landslag - landslag@ultimateswden.se
+* Landslag - landslag@ultimatesweden.se
 * Regelgrupp - regler@ultimatesweden.se
 * SM-Grupp - sm@ultimatesweden.se
 * Streaming - streaming@ultimatesweden.se
