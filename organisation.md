@@ -32,7 +32,6 @@
 # Ytterligare mail-listor
 
 * Förbundskaptener - fk@ultimatesweden.se
-* Ungdomslandslag - ul@ultimatesweden.se
 * Youth Camps - camps@ultimatesweden.se
 
 
