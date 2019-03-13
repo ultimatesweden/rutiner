@@ -26,6 +26,7 @@
 * Streaming - streaming@ultimatesweden.se
 * Ungdomslandslag - ul@ultimatesweden.se
 * Utbildningsgrupp - utbildning@ultimatesweden.se
+* Utmärkelser - på gång...
 * Utvecklingsplan - utvecklingsplan@ultimatesweden.se
 
 
