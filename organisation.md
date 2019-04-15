@@ -76,6 +76,15 @@ Gruppens uppgifter:
 * Utse årets juniorspelare (tjej, kille) (fk)
 
 
+## Hemsida (UTKAST)
+
+Gruppens uppgifter:
+
+* Uppdatera hemsidan baserat på input från ägare av innehåll för respektive område
+* Budgetansvar 
+* Ansvar för verksamhetsplan 
+* Ansvar för verksamhetsberättelse
+* Utveckla grafisk profil för hemsidan
 
 
 
