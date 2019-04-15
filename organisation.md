@@ -50,3 +50,36 @@ Uppdateringar kan begäras genom att maila styrelsen@ultimatesweden.se
 
 Arbetsgrupperna har mandat att nyttja den budget den blivit tilldelad. Användningen av budgegten ska följa de riktlinjer som SUF och RF satt upp för respektive område. SUF styrelse ska tillfrågas vid eventuella frågor. Arbetsgrupperna ska lämna verksamhetsberättelse för det gånga året och göra en verksamhetsplan för det kommande åtet inför SUFs årsmöte. Arbetsgrupperna ansvarar för att hantera de ärenden som ligger inom dess område, t.ex. RF/SISU, EUF och WFDF ärenden. Beslut som fattas inom arbetsgrupperna ska protokollföras och sparas i arbetsgruppens Google Team Drive. Vid jävssituationer som inte kan hanteras inom arbetsgruppen, t.ex. då gruppen består av få medlemmar, tillfrågas styrelsen.
 
+
+## Ungdomslandslag (UTKAST)
+
+Gruppen består av:
+
+* Ungdomslandslagschef (Sammankallande)
+* Förbundskaptener
+* Gruppmail: Ungdomslandslag - ul@ultimatesweden.se
+
+Gruppen arbetar för att vidareutveckla svenska ultimateungdomar genom de erfarenheter som internationella mästerskapsturneringar ger. 
+
+Gruppens uppgifter:
+
+* Budgetansvar (ungdomslandslagschef (uc))
+* Utse/Föreslå förbundskaptener till SUF(uc)
+* Ansvar för verksamhetsplan (uc)
+* Ansvar för verksamhetsberättelse (uc)
+* Kontakter med tävlingsarrangör (uc)
+* Administrativt arbete runt internationella mästerskap (uc)
+* Genomföra ett öppet läger för U17 och U20 (förbundskapten (fk), uc)
+* Ta ut landslagstrupp till internationella mästerskap (fk)
+* Genomföra läger inför internationella mästerskap (fk, uc)
+* Individuella spelarkontakter, utvecklingssamtal (fk)
+* Utse årets juniorspelare (tjej, kille) (fk)
+
+
+
+
+
+
+
+
+
