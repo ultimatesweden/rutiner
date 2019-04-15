@@ -11,6 +11,7 @@
 * [Säsongskalender](./sasongskalender.md)
 * [SM-grupp](./sm-grupp.md)
 * [Idrottslyft/Utvecklingsplan](./idrottslyft.md)
+* [Utmärkelser](./utmarkelser.md)
 
 
 Viktiga datum och rutiner för ansökningar och bidrag framgår av rutinerna för Svenska Frisbeesport Förbunder (SFF) 
