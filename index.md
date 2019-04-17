@@ -4,6 +4,7 @@
 * [Gruppresor](./gruppresor.md) 
 * [IT](./it.md)
 * [Kanslirutin för 2019](./kansliet-2019.md)
+* [Kommunikationsplan](https://www.dropbox.com/sh/hd4bopohqqr4aoq/AACqUy91P1mZd-U5GeZnqb9ya?dl=0) (ligger som en PDF i länkad Dropbox-mapp)
 * [Löner](./loner.md)
 * [Organisation](./organisation.md)
 * [Post](./post.md)
@@ -18,4 +19,3 @@ Viktiga datum och rutiner för ansökningar och bidrag framgår av rutinerna fö
 som finns [här](http://styrelse.frisbeesport.se/sff-rutiner).
 
 Denna sida nås via: [rutiner.ultimatesweden.se/](http://rutiner.ultimatesweden.se/)
-
