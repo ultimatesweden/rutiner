@@ -66,7 +66,7 @@ Alla leverantörer som SUF använder sig av måste vara registrerade som arbetsg
 Info om F-skatt och sociala avgifter för enskild firma finns [här](https://www.skatteverket.se/foretagochorganisationer/sjalvservice/svarpavanligafragor/nystartadeforetag/foretagfskattfaq/jagharstartatettforetaghurbetalasminasocialavgifteromjagharfskatt.5.10010ec103545f243e8000709.html). 
 
 
-## Rapportering
+# Rapportering
 
 Inmatning av verifikat ska vara gjort senast 5 arbetsdagar efter månadens slut. När alla verifikat är
 Inlagda ska en resultat- och balansräkning läggas upp Google Drive Ekonomi i mappen Rapporter.
