@@ -9,6 +9,8 @@ Följande gäller för ungdomslandslag samt senior och U24 landslag. Ekonomin f�
 * kansliet används för administration och se till att inbetalningar görs. Se rutin för kundfakturor inkl. påminnelser nedan.
 
 
+Följande Swishkonton finns att tillgå. Kontakta styrelse om det finns behov av ytterligare swishkonton.
+
 ![Swishkonton](./media/Ekonomi/Swishkonton.png "Swishkonton")
 
 # Kundfakturor
