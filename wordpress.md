@@ -14,7 +14,11 @@ WpForms gör det enkelt att sätta upp formulär som kan användas för att ta i
 ### Se formulär/anmälningar/betalningar
 
 
+![Meny](./media/WpForms/Meny.png "Meny")
 
+![Entries](./media/WpForms/Entries.png "Entries")
+
+![Export_CSV](./media/WpForms/Export_CSV.png "Export_CSV")
 
 
 ## Betalningar - Stripe
