@@ -6,18 +6,23 @@ I tillägg till hemsidan som är synlig för medlemmarna finns en testmiljö och
 ny funktionalitet eller bara lära sig lite om Wordpress och WpForms. Maila hemsida@ultimatesweden.se om du har frågor kring detta.
 
 
-## WpForms
+## Formulär - WpForms
 
 WpForms gör det enkelt att sätta upp formulär som kan användas för att ta in anmälningar och även betalningar.
 
-Används för att ta in anmäl
+
+### Se formulär/anmälningar/betalningar
 
 
-## Stripe
-
-Tjänsten Stripe används för att ta in betalningar. WpForms 
 
 
-## Mailutskick
 
-SUF har ett MailChimp-konto som mailadresser automatiskt skickas till om detta sätts upp i WpForms formulär.
+## Betalningar - Stripe
+
+Tjänsten Stripe används för att ta in betalningar. WpForms integrerar med Stripe och det finns ett en färdig Stripe-modul som kan användas i formulär. Maila hemsida@ultimatesweden.se om du har frågor kring Stripe.
+
+
+## Mailutskick - MailChimp
+
+SUF har ett MailChimp-konto som mailadresser automatiskt skickas till om detta sätts upp i WpForms formulär. Maila hemsida@ultimatesweden.se om du har frågor kring MailChimp.
+
