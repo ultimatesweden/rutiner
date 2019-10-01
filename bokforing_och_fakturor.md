@@ -8,6 +8,9 @@ Följande gäller för ungdomslandslag samt senior och U24 landslag. Ekonomin f�
 * inbetalningar bokas som intäkt på ett konto för UL resp. seniorlandslag (se kontoplan 2019 i Google Drive). Intäkts- och kostnadskonto för UL resp. seniorlandslag ska balansera när inbetalningarna kommit in
 * kansliet används för administration och se till att inbetalningar görs. Se rutin för kundfakturor inkl. påminnelser nedan.
 
+
+![Swishkonton](./media/Ekonomi/Swishkonton.png "Swishkonton")
+
 # Kundfakturor
 
 Kansliet ansvarar för fakturering inom SUF. Detta inkluderar licenser, föreningsavgifter och andra faktureringsuppdrag som styrelsen ger kansliet. Betalningsfristen ska vara 30 dagar om inget annat anges i faktureringsuppdraget. Påminnelsefakturor ska skickas då betalningar inte görs i tid. Dröjesmålsränta på 8% (per år) ska tas ut samt ett påminnelseavgift på 60 Kr vid varje påminnelse. Ytterligare påminnelser skickas after 30 dagar tills dess att betalnings gjorts.
