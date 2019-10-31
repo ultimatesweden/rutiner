@@ -9,14 +9,17 @@
 
 ## Sammankallande landslag/arbetsgrupper
 
+Landslag:
 * Ungdomslandslag - Cecilia Arensmeier
 * U24 landslag - Tomas Erikson
 * Seniorlandslag - vakant
 * Masterlandslag - vakant
 
+SM:
 * SM-Grupp - Editha Ehrmantraut
 * SM-Vecka grupp - vakant
 
+Annat:
 * Hemsida - Jonas Colmsjö
 * Kalender - vakant
 * Kommunikation - Martin Carlsson
