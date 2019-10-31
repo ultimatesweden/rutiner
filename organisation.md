@@ -7,6 +7,11 @@
 * Suppleanter: Jonas Teglund
 * Styrelsen nås via: styrelsen@ultimatesweden.se
 
+## Valberedning
+
+* Sammankallande: vakant
+* Valberedningen nås via valberedning@ultimatesweden.se
+
 ## Sammankallande landslag/arbetsgrupper
 
 Landslag:
@@ -28,12 +33,6 @@ Annat:
 * Utbildning - vakant
 * Utmärkelser - Stefan Angegård
 * Utvecklingsplan - Editha Ehrmantraut
-
-## Valberedning
-
-* Sammankallande: vakant
-* Valberedningen nås via valberedning@ultimatesweden.se
-
 
 # Maillistor
 
