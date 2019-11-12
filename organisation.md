@@ -58,7 +58,7 @@ Annat:
 * Regelgrupp - regler@ultimatesweden.se
 * Streaming - streaming@ultimatesweden.se
 * Utbildningsgrupp - utbildning@ultimatesweden.se
-* Utmärkelser - utmarkelser@ultimatesweden.se, arets@ultimatesweden.se
+* Utmärkelser - arets@ultimatesweden.se
 
 
 # Ytterligare mail-listor
