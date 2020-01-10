@@ -17,16 +17,15 @@
 Landslag:
 * Ungdomslandslag - Cecilia Arensmeier
 * U24 landslag - Tomas Erikson
-* Seniorlandslag - vakant
-* Masterlandslag - vakant
+* Seniorlandslag - Martin Carlsson
+* Masterlandslag (Master, Grand Master och Great Grand Master) - Jonas Colmsjö
 
 SM:
 * SM-Grupp - Editha Ehrmantraut
-* SM-Vecka grupp - vakant
+* SM-Vecka grupp - Editha Ehrmantraut
 
 Annat:
-* Hemsida - Jonas Colmsjö
-* Kalender - vakant
+* Kalender - Paul Eriksson
 * Kommunikation - Martin Carlsson
 * Regler - Martin Carlsson
 * Streaming - vakant
