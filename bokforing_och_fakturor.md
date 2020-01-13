@@ -1,17 +1,27 @@
 # Ekonomi landslag
 
-Följande gäller för ungdomslandslag samt senior och U24 landslag. Ekonomin för landslag inom mastersdivisionen hanteras för tillfället av respektive landslag:
+Det finns fyra landslagsgrupper: UL, U24, Senior och Masters vars ekonomier hanteras separat med egna bankkonton. 
 
-* ansvarig för UL respektive seniorlandslag godkänner leverantörsfakturor (kansliet mailar ul/landslag@ultimatesweden.se för godkännande)
-* kostnaden bokas på ett konto för UL resp. seniorlandslag (se kontoplan 2019 i Google Drive) och betalas från kassan
-* ansvarig för UL respektive seniorlandslag säkerställer att kundfakturor ställs ut genom att ge faktureringsppdrag till kansliet
-* inbetalningar bokas som intäkt på ett konto för UL resp. seniorlandslag (se kontoplan 2019 i Google Drive). Intäkts- och kostnadskonto för UL resp. seniorlandslag ska balansera när inbetalningarna kommit in
-* kansliet används för administration och se till att inbetalningar görs. Se rutin för kundfakturor inkl. påminnelser nedan.
+* ansvarig för respektive landslagsgrupp godkänner leverantörsfakturor som betalas från dessa bankkonto. Kansliet mailar respektive grupp för godkänande (mail-adresser finns på [organisations-sidan](./organisation.html) )
+* kostnaden bokas på respektive landslagsgrupps konto (se kontoplan 2020 i Google Drive) och betalas från dess bankkonto
+* ansvarig respektive landslagsgrupp säkerställer att kundfakturor ställs ut genom att ge faktureringsppdrag till kansliet
+* inbetalningar bokas som intäkt på respektive landslagsgrupps konto (se kontoplan 2020 i Google Drive)
 
+*VIKTIGT!* Utbetalningar för landslag kan endast godkännas av en landslagsgreupp då det finns tillräckliga medel på för respektive landslagsgrupps konto. Om en landslagsgrupp har behov av att långa pengar görs detta enligt rutinen nedan.
 
 Följande Swishkonton finns att tillgå. Kontakta styrelse om det finns behov av ytterligare swishkonton.
 
 ![Swishkonton](./media/Ekonomi/Swishkonton.png "Swishkonton")
+
+
+## Lån mellan SUF och landslagsgrupper
+
+Alla lån och återbetaningar mellan SUF och landslagsgrupper ska registreras i Google Sheetet 'Lån till landslagsgrupper' som finns i Google Driven Ekonomi. Kansliet gör detta när överföringen görs till/från respektive konto för landslagsgruppen.
+
+# Utbetalningar
+
+Utbetalningar från SUF görs då giltigt bokföringsunderlag presenteras. Exempel på underlag är faktura, kvitton, underlag för skatteinbetalningar, redovisning av körda mil för milersättning samt redovisning för uttag av traktamente. Kansliet skall  säkerställa att giltigt bokföringsunderlag finns då utbetalningar görs. Om detta saknas ska kansliet tillfråga styrelsen och avvakta med utbetalningen tills gilitiga underlags presenterats. Om det är osäkert om underlag är giltigt skall revisorn rådfrågas. Pengar som betalats ut där giltiga bokföringsunderlag underlag saknas skall omedelbart betalas tillbaka.
+
 
 # Kundfakturor
 
@@ -45,7 +55,7 @@ faktura@ultimatesweden.se eller om det inte är möjligt med post till fakturaad
 
 Fakturor som ska belasta projekt ska ha en projektkod som referens som projekten tilldelas när de godkänns. 
 
-Kansliet mailar  för attest av fakturor. Mailet ska innehålla belopp och konto som kostnaden ska tas på (alt. en fråga om  kansliet inte vet vilket konto en faktura ska belasta).
+Kansliet mailar för attest av fakturor. Mailet ska innehålla belopp och konto som kostnaden ska tas på (alt. en fråga om  kansliet inte vet vilket konto en faktura ska belasta).
 
 Fakturaadress:
 
