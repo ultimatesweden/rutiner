@@ -16,7 +16,7 @@ Följande Swishkonton finns att tillgå. Kontakta styrelse om det finns behov av
 
 ## Lån mellan SUF och landslagsgrupper
 
-Alla lån och återbetaningar mellan SUF och landslagsgrupper ska registreras i Google Sheetet 'Lån till landslagsgrupper' som finns i Google Driven Ekonomi. Kansliet gör detta när överföringen görs till/från respektive konto för landslagsgruppen.
+Lån från SUF till landslag ska godkännas av SUF:s styrelse. Alla lån och återbetaningar mellan SUF och landslagsgrupper ska registreras i Google Sheetet 'Lån till landslagsgrupper' som finns i Google Driven Ekonomi. Kansliet gör detta när överföringen görs till/från respektive konto för landslagsgruppen.
 
 # Utbetalningar
 
