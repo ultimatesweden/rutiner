@@ -12,17 +12,17 @@ Det finns fyra landslagsgrupper: UL, U24, Senior och Masters vars ekonomier hant
 Följande Swishkonton finns att tillgå. Kontakta styrelse om det finns behov av ytterligare swishkonton.
 
 
-| Swish-nummer  | Marknadsnamn                        | Anslutningskonto      | 
-|---------------|-------------------------------------|-----------------------|
+| Swish-nummer  | Lag                                 | Anslutningskonto     | 
+|---------------|-------------------------------------|----------------------|
+|123 335 26 63	| u17 Open Sv Ultimateförbundet	      | 8105-9,704 108 191-5 |
 |123 209 06 52	| u20 Dam Sv Ultimateförbundet        |	8105-9,704 108 191-5 |	
 |123 236 30 59	| u20 Open Sv ultimateförbundet       |	8105-9,704 108 191-5 |	
-|123 260 24 31	|                                     |8105-9,704 108 194-9	 |
-|123 335 26 63	| u17 Open Sv Ultimateförbundet	      | 8105-9,964 615 290-1	 |
-|123 448 99 93	|	                                    | 8105-9,704 108 191-5	 |
-|123 561 06 54	| Seniorlandslag Svenska Ultimateförb |8105-9,704 108 194-9	 |
-|123 562 22 20	|	                                    | 8105-9,964 615 290-1	 |
-|123 631 54 93	|	                                    | 8105-9,704 108 193-1	 |
-|123 686 19 18	|	                                    | 8105-9,704 108 195-6  |
+|123 448 99 93	|	                                    | 8105-9,704 108 191-5 |
+|123 561 06 54	| Senior Dam                          | 8105-9,704 108 194-9 |
+|123 260 24 31	| Senior                              | 8105-9,704 108 194-9 |
+|123 562 22 20	|	                                    | 8105-9,964 615 290-1 |
+|123 631 54 93	| U24-landslag	                      | 8105-9,704 108 193-1 |
+|123 686 19 18	|	Master-landslag                     | 8105-9,704 108 195-6 |
 
 
 
