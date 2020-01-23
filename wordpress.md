@@ -25,16 +25,27 @@ WpForms gör det enkelt att sätta upp formulär som kan användas för att ta i
 
 Ett enkelt sätt att skapa en sida med ett formulär i är att kopiera en existerande sida.
 
+1. Börja med att kolla vilket ID det formulär som ska användas har (vi förutsätter att formuläret redan finns). Välj menyvalet 'All Forms'
 
 ![Meny wpforms](./media/WpForms/meny-wpforms.png "Meny wpfroms")
 
+2. Kontrollera vilket ID som det formulär du vill använda har i listan med formulär, t.ex. ```[wpforms id="XXXX"]```
+
 ![Se wpforms id](./media/WpForms/se-wpforms-id.png "Se wpforms id")
+
+3. Välj sedan listan med alla sidor
 
 ![Meny sidor](./media/WpForms/meny-sidor.png "Meny sidor")
 
+4. Duplicera en sidan som liknar den sida du vill skapa
+
 ![Duplicera sida](./media/WpForms/duplicera-sida.png "Duplicera sida")
 
+5. Välj Redigera för denna sida
+
 ![Meny Redigera sida](./media/WpForms/redigera-sida.png "Meny Redigera sida")
+
+6. Ändra ID i sektionen ```[wpforms id="XXXX" ...]```. Ändra övrig text.
 
 ![Uppdatera sida](./media/WpForms/sida.png "Uppdatera sida")
 
