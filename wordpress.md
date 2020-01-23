@@ -53,9 +53,13 @@ Ett enkelt sätt att skapa en sida med ett formulär i är att kopiera en existe
 
 ![Publicera sidna](./media/WpForms/publicera.png "Publicera sida")
 
-8. Lägg in sidan i menyer
+8. Uppdatera menyerna
 
 ![Menyer](./media/WpForms/menyer.png "Menyer")
+
+9. Välj sidan du skapade och sedan 'Lägg till i meny'
+
+![Lagg till meny](./media/WpForms/lagg-till-meny.png "Lagg till meny")
 
 
 
