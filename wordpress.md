@@ -21,6 +21,24 @@ WpForms gör det enkelt att sätta upp formulär som kan användas för att ta i
 ![Export_CSV](./media/WpForms/Export_CSV.png "Export_CSV")
 
 
+### Skapa ny sida med formulär
+
+Ett enkelt sätt att skapa en sida med ett formulär i är att kopiera en existerande sida.
+
+
+![Meny wpforms](./media/WpForms/meny-wpforms.png "Meny wpfroms")
+
+![Se wpforms id](./media/WpForms/se-wpforms-id.png "Se wpforms id")
+
+![Meny sidor](./media/WpForms/meny-sidor.png "Meny sidor")
+
+![Duplicera sida](./media/WpForms/duplicera-sida.png "Duplicera sida")
+
+![Meny Redigera sida](./media/WpForms/redigera-sida.png "Meny Redigera sida")
+
+![Uppdatera sida](./media/WpForms/sida.png "Uppdatera sida")
+
+
 ## Betalningar - Stripe
 
 Tjänsten Stripe används för att ta in betalningar. WpForms integrerar med Stripe och det finns ett en färdig Stripe-modul som kan användas i formulär. Maila hemsida@ultimatesweden.se om du har frågor kring Stripe.
@@ -29,4 +47,3 @@ Tjänsten Stripe används för att ta in betalningar. WpForms integrerar med Str
 ## Mailutskick - MailChimp
 
 SUF har ett MailChimp-konto som mailadresser automatiskt skickas till om detta sätts upp i WpForms formulär. Maila hemsida@ultimatesweden.se om du har frågor kring MailChimp.
-
