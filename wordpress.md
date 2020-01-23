@@ -61,6 +61,7 @@ Ett enkelt sätt att skapa en sida med ett formulär i är att kopiera en existe
 
 ![Lagg till meny](./media/WpForms/lagg-till-meny.png "Lagg till meny")
 
+10. Glöm inte att spara menyn
 
 
 ## Betalningar - Stripe
