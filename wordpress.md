@@ -59,7 +59,7 @@ Ett enkelt sätt att skapa en sida med ett formulär i är att kopiera en existe
 
 9. Välj sidan du skapade och sedan 'Lägg till i meny'
 
-![Lägg till meny](./media/WpForms/lagg-till-meny.png "Lägg till meny")
+![Lagg till meny](./media/WpForms/lagg-till-meny.png "Lagg till meny")
 
 
 
