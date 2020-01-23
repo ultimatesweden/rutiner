@@ -53,6 +53,10 @@ Ett enkelt sätt att skapa en sida med ett formulär i är att kopiera en existe
 
 ![Publicera sidna](./media/WpForms/publicera.png "Publicera sida")
 
+8. Lägg in sidan i menyer
+
+![Menyer](./media/WpForms/menyer.png "Menyer")
+
 
 
 ## Betalningar - Stripe
