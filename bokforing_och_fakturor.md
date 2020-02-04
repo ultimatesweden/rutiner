@@ -52,13 +52,25 @@ Så här ser det när jag bokför, SpeedLedger föreslår konto och om det stäm
 
 ![ange_konto](./media/Ekonomi/ange_konto.png "ange_konto")
 
-
-
 Om jag vill dela upp en inbetalning på olika konton ser det ut så här
-
 
 ![ange_flera_konton](./media/Ekonomi/ange_flera_konton.png "ange_flera_konton")
 faktura@ultimatesweden.se
+
+
+## Stripe
+
+Kortbetalningar som gjorts via hemsidan överförs automatiskt från Stripe (betalningsleverantören) till SUF:s bankkonto. Kansliet ansvarar för att föra över betalningarna till respektive landslagsgrupps bankkonto. Det är viktigt att det framgår i betalningarna vilket landslag betalning hör till. Stripe-betalningar ska bokföras tillsammans med övriga verifikat vi slutet av månaden.
+
+
+![stripe_login](./media/Stripe/Stripe-login.png "stripe_login")
+
+1. Logga in och välj Payments och sedan Export.
+
+2. Välj senaste månaden och alla kolumner och sedan export.
+
+![stripe_export](./media/Stripe/Stripe-export.png "stripe_export")
+
 
 # Leverantörsfakturor 
 
