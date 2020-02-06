@@ -108,6 +108,6 @@ Info om F-skatt och sociala avgifter för enskild firma finns [här](https://www
 # Rapportering
 
 Inmatning av verifikat ska vara gjort senast 5 arbetsdagar efter månadens slut. När alla verifikat är
-Inlagda ska en resultat- och balansräkning läggas upp Google Drive Ekonomi i mappen Rapporter. Även en huvudbok ska tas ut och läggas i mappen Rapporter.
+Inlagda ska en resultat- och balansräkning läggas upp Google Drive Ekonomi i mappen Rapporter. Även en huvudbok ska tas ut och läggas i mappen Rapporter. I mappen Kontoutdrag i Google Drive Ekonomi ska bank-kontoutdrag för årets alla transaktioner för bankkonton för landslagen (UL, U25, Senior och Masters) samt huvudkkontot läggas. 
 
 
