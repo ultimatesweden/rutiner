@@ -2,14 +2,14 @@
 
 ## Styrelse
 
-* Ordförande: Jonas Colmsjö
-* Ledamöter: Martin Carlsson,  Editha Ehrmanntraut
-* Suppleanter: Jonas Teglund
+* Ordförande: Martin Carlsson
+* Ledamöter: Henrik Klarén, Jonas Colmsjö
+* Suppleanter: Oscar Emman, Elsa Enell
 * Styrelsen nås via: styrelsen@ultimatesweden.se
 
 ## Valberedning
 
-* Sammankallande: vakant
+* Sammankallande: Malin Erlandsson
 * Valberedningen nås via valberedning@ultimatesweden.se
 
 ## Sammankallande landslag/arbetsgrupper
