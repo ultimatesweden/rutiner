@@ -44,7 +44,7 @@ Landslag:
 
 SM:
 * SM-Grupp - sm@ultimatesweden.se
-* SM-Veckan - smvecka@ultimatesweden.se
+* SM-Veckan - smveckan@ultimatesweden.se
 
 UP/IL:
 * Idrottslyft Förening - il-forening@ultimatesweden.se
