@@ -14,3 +14,5 @@ Rutiner för rapportering av utlägg:
 6. Kansliet stämmer av att inbetalningar inkommit vid angivet datum och gör utbetalningar från aktuell landslagsgrupps konto på samma belopp till respektive deltagare
 
 *Utlägg ska rapporteras in senast onsdag i veckan efter landslagsaktiviteten. Kansliet skickar sammanställning med inrapporterade utlägg senast onsdag i veckan efter månadens slut*
+
+*Efter överenskommelse med ansvarig för landslagsgruppen kan deltagre få tillåtelse att betala in utlägg efter att utbetalning gjorts av kansliet. Detta hanteras från fall till fall.*
