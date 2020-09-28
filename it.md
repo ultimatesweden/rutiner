@@ -42,6 +42,6 @@ Kivra har stöd för elektroniska signaturer med BankID vilket ska fungerar för
 
 Bilder sparas i AWS S3 buckets. Det finns en bucket för material som SUF har rättigheterna till och därmed kan användas fritt. En annan bucket anväds för material där SUF inte har fulla rättigheter och därmed endast får användas efter godkännande av de som har rättigheterna. Materialet är organiserat i en katalog per år och där under en katalog per event.
 
-[s3album](https://github.com/toehio/s3album) används för att göra materialet publikt.
+[s3-bucket-listing](https://github.com/rufuspollock/s3-bucket-listing) används för att göra materialet publikt.
 
 [Länk till bildarkiv](http://ultimatesweden-bildarkiv-public.s3-website.eu-north-1.amazonaws.com/)
