@@ -44,3 +44,4 @@ Bilder sparas i AWS S3 buckets. Det finns en bucket för material som SUF har r�
 
 [s3album](https://github.com/toehio/s3album) används för att göra materialet publikt.
 
+[Länk till bildarkiv](http://ultimatesweden-bildarkiv-public.s3-website.eu-north-1.amazonaws.com/)
