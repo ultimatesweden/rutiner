@@ -4,7 +4,7 @@
 
 Alla anställningar av personal ska godkännas av HR-chef inom SUF. Anställningsavtal ska upprättas enligt SUF:s mall för anställningar. 
 HR-chef stämmer av anställningar med styrelsen innan anställningsavtal ingås. Projektledare för arbetsgrupper med anställda ska upprätta 
-en resursplan per år samt arbetsbeskrivningar för anställda.
+en resursplan per år samt arbetsbeskrivningar för anställda. En resursplan ska innehålla en uppskattning av antal timmar per övergripande kompetensområde.
 
 ## Löner
 
