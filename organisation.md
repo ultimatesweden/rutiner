@@ -98,6 +98,7 @@ Landslagsgruppen består av:
 Landslagsgruppens uppgifter:
 * Ta fram verksamhetsplan inkl. vilka internationella mästerskap/divisioner Sverige ska delta på (tm, lc)
 * Utarbeta budget (tm, lc)
+* Hantera respektive landslagsgrupps löpande ekonomi (tm)
 * Ta fram verksamhetsberättelse (tm, lc)
 * Utse förbundskaptener (tm)
 * Ha kontakt med tävlingsarrangör (tm)
