@@ -2,23 +2,21 @@
 
 ## Styrelse
 
-* Ordförande: Martin Carlsson
-* Ledamöter: Henrik Klarén, Jonas Colmsjö
-* Suppleanter: Oscar Emman, Elsa Enell
-* Styrelsen nås via: styrelsen@ultimatesweden.se
+Se hemsida, www.ultimatesweden.se
+
 
 ## Valberedning
 
-* Sammankallande: Malin Erlandsson
-* Valberedningen nås via valberedning@ultimatesweden.se
+Se hemsida, www.ultimatesweden.se
+
 
 ## Sammankallande landslag/arbetsgrupper
 
 Landslag:
-* Ungdomslandslag - Cecilia Arensmeier
-* U24 landslag - Tomas Erikson
-* Seniorlandslag - Martin Carlsson
-* Masterlandslag (Master, Grand Master och Great Grand Master) - Jonas Colmsjö
+* Landslagschef - Tomas Erikson
+* Koordinator ungdomslandslag - Cecilia Arensmeier
+* Koordinator seniorlandslag - Martin Carlsson
+* Koordinator masterlandslag (Master, Grand Master och Great Grand Master) - Jonas Colmsjö
 
 SM:
 * SM-Grupp - Editha Ehrmantraut
@@ -83,34 +81,32 @@ Arbetsgrupperna har mandat att nyttja den budget den blivit tilldelad. Användni
 
 ## Landslagsgrupp
 
-SUF:s landlag är organiserade i fyra landslagsgrupper:
+Landslagsgrupp
 
-1. Ungdomslandslag
-2. U24-landslag
-3. Seniorlandslag
-4. Masterlandslag (inkluderar Master, Grand Master och Great Grand Master)
+SUF:s landslagsgrupp är organiserade i tre undergrupper:
 
-Gruppen består av:
+* Ungdomslandslag
+* Seniorlandslag (inkluderar U24)
+* Masterlandslag (inkluderar Master, Grand Master och Great Grand Master)
 
-* Landslagschef/Team manager (tm, sammankallande)
-* Förbundskaptener (fk)
-* Respektive grupp kan utse ytterligare stabsfunktioner
+Landslagsgruppen består av:
+* Landslagschef (lc)
+* Team manager/koordinator för varje undergrupp (tm)
+* Förbundskaptener (fk) för olika åldersgrupper och underlag (gräs, beach, inomhus)
+* Lc och tm kan utse ytterligare stabsfunktioner.
 
-Gruppen arbetar för att vidareutveckla svenska ultiamte inom respektive ålderskategori genom de erfarenheter som internationella mästerskapsturneringar ger. 
-
-Gruppens uppgifter:
-
-* Budgetansvar (tm)
-* Utse/Föreslå förbundskaptener till SUF(tm)
-* Ansvar för verksamhetsplan inkl. beslut om vilka klasser som gruppen representera under mästerskap (tm)
-* Ansvar för verksamhetsberättelse (tm)
-* Kontakter med tävlingsarrangör (tm)
-* Administrativt arbete runt internationella mästerskap (tm)
-* Genomföra minst ett öppet läger för alla klasser som gruppen ska representera under mästerskap (fk, tm)
+Landslagsgruppens uppgifter:
+* Ta fram verksamhetsplan inkl. vilka internationella mästerskap/divisioner Sverige ska delta på (tm, lc)
+* Utarbeta budget (tm, lc)
+* Ta fram verksamhetsberättelse (tm, lc)
+* Utse förbundskaptener (tm)
+* Ha kontakt med tävlingsarrangör (tm)
+* Administrativt arbete för landslagsgruppens verksamhet inkl hantering av landslagens ekonomi och bankkonton (tm, får praktisk hjälp av kansliet, lc yttersta ansvarig).
+* Genomföra minst ett öppet uttagningsläger för alla aktiva divisioner (fk, tm)
 * Ta ut landslagstrupp till internationella mästerskap (fk)
-* Genomföra läger inför internationella mästerskap (fk, tm)
+* Genomföra ytterligare läger inför internationella mästerskap (fk, tm)
 * Individuella spelarkontakter, utvecklingssamtal (fk)
-* Utse årets spelare (tjej, kille) (fk)
+* Bidra till juryarbete för årets spelare (fk inom aktuell division)
 
 
 ## Hemsida
